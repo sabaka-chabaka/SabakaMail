@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SabakaMail.API/SabakaMail.API.csproj" />
+  <Project Path="SabakaMail.Domain/SabakaMail.Domain.csproj" />
+  <Project Path="SabakaMail.Infrastructure/SabakaMail.Infrastructure.csproj" />
+</Solution>
