@@ -1,4 +1,5 @@
 using SabakaMail.API.Middleware;
+using SabakaMail.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
